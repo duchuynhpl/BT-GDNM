@@ -466,7 +466,6 @@ i.fa.fa-quote-left {
 
 .cot2 img {
     margin-top: 10px;
-    margin-left: 50px;
 }
 
 h2.tdfooter {
@@ -789,10 +788,14 @@ a {
     color: #55acee;
 }
 
+.cot2 {
+    padding-left: 60px;
+}
 
 .cot2 .mxh{
     display: flex;
      justify-content: center;
+     padding-right: 80px;
      align-items: center;
 }
 
