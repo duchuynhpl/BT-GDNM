@@ -624,7 +624,9 @@ a.checkout:hover{
 
 .background-green{
     background-color: green;
-	padding: 270px 10px 30px 0;
+	padding: 50px 10px 30px 0;
+    color: #fff;
+    text-align: center;
 }
 
 .background-green-blog{
@@ -645,9 +647,6 @@ a.checkout:hover{
 }
 
 .left-info{
-    position: absolute;
-    left: 100px;
-    top: 720px;
 color: #ffffff;
 text-align: center;
 }
@@ -661,9 +660,6 @@ text-align: center;
 }
 
 .right-info{
- position: absolute;
- left: 1050px;
- top: 720px;
 color: #ffffff;
 text-align: center;
 }
