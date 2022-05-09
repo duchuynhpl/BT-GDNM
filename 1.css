@@ -82,11 +82,12 @@ a.nutslide.btn.btn-warning{
     line-height: 50px;
     color: black;
     padding: 0;
-    font-size: 14px;
+    font-size: 18px;
+    font-weight: 400;
 }
 a.nutslide.btn.btn-warning:hover{
     background-color: black;
-    color: #feb518;
+    color: #ffffff;
     transition: 0.8s;
     border-width: 2px;
 }
@@ -101,13 +102,14 @@ a.nav-link {
     /* transform: translateY(-100px); */
 }
 a.nav-link:hover{
-    background-color: #feb518;
+    background-color: #00c12f;
     border-radius: 5px;
     transition: 0.4s;
 }
 .dangnhap a.nav-link.btn.btn-warning {
-    font-size: 13px;
-    color: black;
+    font-size: 15px;
+    font-weight: 500;
+    color: white;
     border-radius: 0px;
     height: 44px;
     line-height: 44px;
@@ -116,9 +118,18 @@ a.nav-link:hover{
     text-align: center;
     padding: 0px;
     transform: translateY(-6px);
+    /*background-color: #2ad660 !important;
+    border-color: #00c12f !important; */
 }
+
+.btn-warning {
+    background-color: #2ad660 !important;
+    border-color: #00c12f !important;
+}
+
 .dangnhap a.nav-link.btn.btn-warning:hover{
-    background: white;
+    background: white !important;
+    color: #000;
     transition: 0.4s;
     border-width: 2px;
 }
@@ -622,6 +633,7 @@ a.checkout:hover{
     max-height:430px;
     width: 100%;
     height: auto;
+    padding: 10px 0px;
 }
 .price_prod{
     border-bottom: 1px solid #d5d5d5;
