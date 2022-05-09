@@ -281,6 +281,15 @@ p.ten {
     padding: 0px 11px;
 }
 
+.tagnew1 {
+    position: absolute;
+    font-family: 'Roboto Slab', serif;
+    background: #ec0089;
+    font-size: 15px;
+    color: #fff;
+    padding: 0px 11px;
+}
+
 .anhsp img{
     display: block;
     /*max-width:230px;
@@ -827,5 +836,20 @@ a {
     font-family: roboto slab;
 }
 
+.anhgiohang img{
+    display: block;
+    width: 250px;
+    height: auto;
+}
+
+.hinh1 img{
+    margin-left: 200px;
+}
+
+.bnt-sanpham h4{
+    /* background: #007800;
+    color: #fff;  */
+    padding: 20px 0px;
+}
 
 /*Ket thuc trang*/
