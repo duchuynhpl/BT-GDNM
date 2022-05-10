@@ -1,0 +1,9 @@
+.hover-green:hover{
+    background-color: #22c355;
+    cursor: pointer;
+    transition: 0.6s;
+}
+
+.checkout-whitecolor:hover{
+    color: white !important;
+}
